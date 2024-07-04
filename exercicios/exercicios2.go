@@ -1,5 +1,6 @@
 package exercicios
 
+/*
 import "fmt"
 
 func Exercicio2() {
@@ -22,4 +23,4 @@ func Exercicio2() {
 	} else {
 		fmt.Println("Não 👎🏻")
 	}
-}
+}*/

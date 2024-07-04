@@ -1,5 +1,6 @@
 package exercicios
 
+/*
 import "fmt"
 
 func Despesas() {
@@ -32,4 +33,4 @@ if encontrado {
 
 // Formatar uma string para exibir o total de itens na lista
 fmt.Printf("\nTotal de itens na lista de despesas: %d\n", len(despesas))
-}
+}*/
