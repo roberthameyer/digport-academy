@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func calculator() {
 	var num1, num2 float64
 	var operacao string
 

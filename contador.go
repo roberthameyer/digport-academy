@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func count() {
 	var contador int
 
 	for contador = 10; contador != 0; contador-- {

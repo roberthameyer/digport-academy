@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func positiveOrNot() {
 	var numero int
 
 	fmt.Println("Digite um número inteiro:")

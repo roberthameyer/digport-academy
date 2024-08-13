@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func name() {
 	var nome string
 
 	fmt.Println("Qual o seu nome?")

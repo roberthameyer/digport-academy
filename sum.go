@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func sum() {
 	var num1 float64 = 12.67
 	var num2 float64
 
