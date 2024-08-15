@@ -9,7 +9,7 @@ type person struct {
 	pay  float64
 }
 
-func main() {
+func pessoa() {
 
 	p1 := person{"Jordana", "Analista de Dados", 26, 7900.32}
 

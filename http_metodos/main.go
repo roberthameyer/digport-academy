@@ -2,7 +2,7 @@ package main
 
 import "net/http"
 
-func main() {
+func rotas() {
 	rotas := Rotas()
 	http.ListenAndServe(":8085", rotas)
 }

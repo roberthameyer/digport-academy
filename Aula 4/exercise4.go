@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func contatosEstrutura() {
 	contatos := map[string]string{
 		"Robertha": "Seriado",
 		"Ana":      "Música",

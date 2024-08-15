@@ -4,7 +4,7 @@ import "fmt"
 
 var lista = map[string]int{"Batata": 3, "Cenoura": 2}
 
-func main() {
+func listaCompras() {
 	qtdRemovida, err := removerDaListaCompras()
 	if err != nil {
 		fmt.Println("Ocorreu um erro:", err)
